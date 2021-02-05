@@ -1,0 +1,14 @@
+<!ELEMENT datos (almacen*)>
+<!ELEMENT alamcen (sucursal, articulos)>
+<!ALLIST sucursal (codigo_sucursal, nombre_trabajador, fecha_pedido, observaciones, direccion?)>
+<!ELEMENT codigo_sucursal (#PCDATA)>
+<!ELEMENT nombre_trabajador (#PCDATA)>
+<!ELEMENT fecha_pedido (#PCDATA)>
+<!ELEMENT observaciones (#PCDATA)>
+<!ELEMENT direccion (#PCDATA)>
+<!ALLIST articulos (codigo_articulo, numero_pedido, precio, observaciones, plazo)>
+<!ELEMENT codigo_articulo (#PCDATA)>
+<!ELEMENT numero_pedido (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT observaciones (#PCDATA)>
+<!ELEMENT plazo (#PCDATA)> 

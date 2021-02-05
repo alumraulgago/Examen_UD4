@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datos SYSTEM "datos.dtd">
+
+<datos>
+    <almacen>
+        <sucursal>
+            <codigo_sucursal>A8785843</codigo_sucursal>
+            <nombre_trabajador>Juan</nombre_trabajador>
+            <fecha_pedido>28/06/2018</fecha_pedido>
+            <observaciones></observaciones>
+            <direccion></direccion>
+        </sucursal>
+        <articulos>
+            <codigo_articulo>NTR-987</codigo_articulo>
+            <numero_pedido>40</numero_pedido>
+            <precio>1200.00</precio>
+            <observaciones>Es un pedido de juguetes</observaciones>
+            <plazo>80</plazo>
+        </articulos>
+        <sucursal>
+            <codigo_sucursal>A8785843</codigo_sucursal>
+            <nombre_trabajador>Juan</nombre_trabajador>
+            <fecha_pedido>28/06/2018</fecha_pedido>
+            <observaciones></observaciones>
+            <direccion></direccion>
+        </sucursal>
+        <articulos>
+            <codigo_articulo>NTR-987</codigo_articulo>
+            <numero_pedido>40</numero_pedido>
+            <precio>1200.00</precio>
+            <observaciones>Es un pedido de juguetes</observaciones>
+            <plazo>80</plazo>
+        </articulos>
+    </almacen>
+</datos>
